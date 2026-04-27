@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fbff" />
+      <stop offset="100%" stop-color="#e4eefb" />
+    </linearGradient>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d9e2ef" />
+      <stop offset="100%" stop-color="#9db2c9" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4e8fd9" />
+      <stop offset="100%" stop-color="#1f5fae" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="800" fill="url(#bg)" />
+  <rect x="90" y="80" width="1020" height="640" rx="36" fill="#ffffff" opacity="0.92" />
+
+  <ellipse cx="520" cy="430" rx="270" ry="62" fill="#9eb3cb" opacity="0.45" />
+  <rect x="280" y="300" width="480" height="180" rx="28" fill="url(#steel)" stroke="#6f8eaf" stroke-width="8" />
+  <rect x="255" y="326" width="25" height="125" rx="12" fill="#6f8eaf" />
+  <rect x="760" y="326" width="25" height="125" rx="12" fill="#6f8eaf" />
+  <rect x="455" y="260" width="130" height="30" rx="15" fill="#6f8eaf" />
+  <rect x="490" y="235" width="60" height="26" rx="13" fill="#527494" />
+
+  <ellipse cx="830" cy="500" rx="220" ry="50" fill="#9eb3cb" opacity="0.35" />
+  <ellipse cx="830" cy="480" rx="180" ry="36" fill="url(#steel)" stroke="#6f8eaf" stroke-width="7" />
+  <rect x="970" y="452" width="95" height="34" rx="17" fill="#6f8eaf" />
+  <rect x="735" y="432" width="190" height="22" rx="11" fill="#6f8eaf" />
+
+  <text x="600" y="165" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="url(#accent)">
+    ChefCore Non-Stick Cookware Set
+  </text>
+  <text x="600" y="212" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#496a8d">
+    Durable essentials for modern home kitchens
+  </text>
+</svg>
